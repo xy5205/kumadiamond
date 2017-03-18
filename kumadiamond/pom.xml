@@ -4,4 +4,7 @@
   <artifactId>kumadiamond</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  <modules>
+  	<module>kuma_order</module>
+  </modules>
 </project>
