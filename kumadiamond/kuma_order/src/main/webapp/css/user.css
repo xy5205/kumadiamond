@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+#main {
+	width: 980px;
+	height: auto !important;
+	overflow: hidden;
+	visibility: visible;
+	margin: auto;
+	margin-top: 0px;
+}
+
+#left {
+	width: 378px;
+	float: left;
+	border: #CCCCCC 1px solid;
+}
+
+#right {
+	width: 598px;
+	float: left;
+	border: #CCCCCC 1px solid;
+	height: 300px;
+	padding-top: 40px;
+}
